@@ -1,6 +1,5 @@
 <h1> 👋 Hey there! I'm Carlos </h1>
 <br> 
-
 <h3> About Me </h3>
 
 - 👨🏻‍💻 I'm a coding enthusiast with a background in music and a passion for technology, and right now, i'm on a thrilling journey as a code cadet at Academia de Código.
@@ -14,11 +13,11 @@
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=carloscasaleiro&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="lalit's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=carloscasaleiro&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="carloscasaleiro's Github Stats">
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carloscasaleiro&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/kumawatlalit912/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carloscasaleiro&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/carloscasaleiro/github-readme-stats)
 
 <p align="center">
 &nbsp; <a href="https://www.linkedin.com/in/carloscasaleiro/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
