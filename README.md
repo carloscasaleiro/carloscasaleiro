@@ -23,7 +23,7 @@
 &nbsp; <a href="mailto:cmcasaleiro@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
-⭐️ From [carloscasaleiro](https://github.com/carloscasaleiro)
+⭐️ From [Carlos Casaleiro](https://github.com/carloscasaleiro)
 
 <!---
 carloscasaleiro/carloscasaleiro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
