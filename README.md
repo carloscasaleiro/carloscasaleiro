@@ -1,5 +1,4 @@
 <h1> 👋 Hey there! I'm Carlos </h1>
-<br> 
 <h3> About Me </h3>
 
 - 👨🏻‍💻 I'm a coding enthusiast with a background in music and a passion for technology, and right now, i'm on a thrilling journey as a code cadet at Academia de Código.
