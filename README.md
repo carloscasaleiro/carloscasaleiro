@@ -1,5 +1,5 @@
-<h1> 👋 Hey there! Carlos Casaleiro here, </h1>
-<h2> a coding enthusiast with a background in music and a passion for technology.</h2>
+<h1> 👋 Hey there! I'm Carlos </h1>
+<h2> <a coding enthusiast with a background in music and a passion for technology> </h2>
 
 <h3> About Me </h3>
 
