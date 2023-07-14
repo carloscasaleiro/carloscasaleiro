@@ -8,8 +8,7 @@
 - 🇵🇹 Born and raised in Espinho, a coastal pearl of Portugal, my path always revolved around music. But i have other plans for me now, and coding stole my heart.
   
 - 💾 Now, I'm immersing myself in the world of programming, from conquering Java to tackling JavaScript, armed with music skills and good taste.🤟
-<h2> </h2>  
-<h3> 🤝🏻 Connect with Me </h3>
+<h2> </h2>
 
 <p align="center">
 &nbsp; <a href="https://www.linkedin.com/in/carloscasaleiro/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
