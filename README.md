@@ -10,6 +10,8 @@
 - 💾 Now, I'm immersing myself in the world of programming, from conquering Java to tackling JavaScript, armed with music skills and good taste.🤟
 <h2> </h2>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=carloscasaleiro&theme=submarine-flowers&border_radius=5&fire=DD701B)](https://git.io/streak-stats)
+
 <p align="center">
 &nbsp; <a href="https://www.linkedin.com/in/carloscasaleiro/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="https://www.instagram.com/carlos_casaleiro/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
