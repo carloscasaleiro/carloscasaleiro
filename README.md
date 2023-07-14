@@ -1,14 +1,14 @@
 <h1> 👋 Hey there! I'm Carlos </h1>
-<h2> <a coding enthusiast with a background in music and a passion for technology> </h2>
+<h2> <> </h2>
 
 <h3> About Me </h3>
 
-- 👨🏻‍💻 Right now, i'm on a thrilling journey as a code cadet at Academia de Código.
+- 👨🏻‍💻 I'm a coding enthusiast with a background in music and a passion for technology, and right now, i'm on a thrilling journey as a code cadet at Academia de Código.
   
 - 🇵🇹 Born and raised in Espinho, a coastal pearl of Portugal, my path always revolved around music. But i have other plans for me now, and coding stole my heart.
   
 - 💾 Now, I'm immersing myself in the world of programming, from conquering Java to tackling JavaScript, armed with music skills and good taste.🤟
-  
+<h2> <> </h2>  
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
